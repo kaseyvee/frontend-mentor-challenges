@@ -2,6 +2,7 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 1. Room homepage
+- [Live Demo](https://kaseyvee.github.io/room-homepage-css-practice/)
 - [Repo](https://github.com/kaseyvee/room-homepage-css-practice)
 - [Original Challenge](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub)
 
