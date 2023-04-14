@@ -2,7 +2,7 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 5. Manage landing page
-- [Live Demo] coming soon
+- [Live Demo](https://kaseyvee.github.io/manage-landing/)
 - [Repo](https://github.com/kaseyvee/manage-landing)
 - [Original Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
