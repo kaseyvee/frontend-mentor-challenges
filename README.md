@@ -14,7 +14,7 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 - [Original Challenge](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
 3. Room homepage
-- [Live Demo](https://kaseyvee.github.io/room-homepage-css-practice/)
+- [Live Demo](https://kaseyvee.github.io/room-homepage/)
 - [Repo](https://github.com/kaseyvee/room-homepage-css-practice)
 - [Original Challenge](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub)
 
