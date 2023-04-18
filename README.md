@@ -1,12 +1,17 @@
 Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kaseyvee).
 
 # In-Progress
-5. Manage landing page
+6. Manage landing page
 - [Live Demo](https://kaseyvee.github.io/manage-landing/)
 - [Repo](https://github.com/kaseyvee/manage-landing)
 - [Original Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
 # Completed
+
+5. Advice generator
+- [Live Demo](https://kaseyvee.github.io/advice-generator/)
+- [Repo](https://github.com/kaseyvee/advice-generator)
+- [Original Challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 4. Sunnyside Agency landing page
 - [Live Demo](https://kaseyvee.github.io/sunnyside-landing/)
