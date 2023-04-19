@@ -3,7 +3,7 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 # In-Progress
 
 6. Clock app
-- [Live Demo] (https://kaseyvee.github.io/clock-app/)
+- [Live Demo](https://kaseyvee.github.io/clock-app/)
 - [Repo](https://github.com/kaseyvee/clock-app)
 - [Original Challenge](https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM)
 
