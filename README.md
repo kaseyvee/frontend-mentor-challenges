@@ -2,22 +2,22 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 
-6. Manage landing page
-- [Live Demo](https://kaseyvee.github.io/manage-landing/)
-- [Repo](https://github.com/kaseyvee/manage-landing)
-- [Original Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
-
 # Completed
 
-6. Clock app
+7. Clock app
 - [Live Demo](https://kaseyvee.github.io/clock-app/)
 - [Repo](https://github.com/kaseyvee/clock-app)
 - [Original Challenge](https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM)
 
-5. Advice generator
+6. Advice generator
 - [Live Demo](https://kaseyvee.github.io/advice-generator/)
 - [Repo](https://github.com/kaseyvee/advice-generator)
 - [Original Challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+
+5. Manage landing page
+- [Live Demo](https://kaseyvee.github.io/manage-landing/)
+- [Repo](https://github.com/kaseyvee/manage-landing)
+- [Original Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
 4. Sunnyside Agency landing page
 - [Live Demo](https://kaseyvee.github.io/sunnyside-landing/)
