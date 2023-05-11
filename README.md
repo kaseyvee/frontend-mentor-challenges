@@ -2,6 +2,11 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 
+8. Photosnap multi-page website
+- [Live Demo] coming soon
+- [Repo](https://github.com/kaseyvee/photosnap)
+- [Original Challenge](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW)
+
 # Completed
 
 7. Clock app
