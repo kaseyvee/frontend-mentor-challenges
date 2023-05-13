@@ -3,7 +3,7 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 # In-Progress
 
 8. Photosnap multi-page website
-- [Live Demo] coming soon
+- [Live Demo](https://kaseyvee.github.io/photosnap/)
 - [Repo](https://github.com/kaseyvee/photosnap)
 - [Original Challenge](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW)
 
