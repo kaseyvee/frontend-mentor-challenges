@@ -2,12 +2,17 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 
+8. Audiophile e-commerce website
+- [Live Demo] coming soon
+- [Repo](https://github.com/kaseyvee/audiophile)
+- [Original Challenge](https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx)
+
+# Completed
+
 8. Photosnap multi-page website
 - [Live Demo](https://kaseyvee.github.io/photosnap/)
 - [Repo](https://github.com/kaseyvee/photosnap)
 - [Original Challenge](https://www.frontendmentor.io/challenges/photosnap-multipage-website-nMDSrNmNW)
-
-# Completed
 
 7. Clock app
 - [Live Demo](https://kaseyvee.github.io/clock-app/)
