@@ -2,12 +2,12 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # In-Progress
 
-8. Audiophile e-commerce website
+# Completed
+
+9. Audiophile e-commerce website
 - [Live Demo](https://audiophile-kaseyvee.vercel.app/)
 - [Repo](https://github.com/kaseyvee/audiophile)
 - [Original Challenge](https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx)
-
-# Completed
 
 8. Photosnap multi-page website
 - [Live Demo](https://kaseyvee.github.io/photosnap/)
