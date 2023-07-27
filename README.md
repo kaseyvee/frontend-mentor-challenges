@@ -4,6 +4,11 @@ Find me on Frontend Mentor [@kaseyvee](https://www.frontendmentor.io/profile/kas
 
 # Completed
 
+10. Base Apparel coming soon page
+- [Live Demo](https://base-apparel-kaseyvee.vercel.app/)
+- [Repo](https://github.com/kaseyvee/base-apparel)
+- [Original Challenge](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+
 9. Audiophile e-commerce website
 - [Live Demo](https://audiophile-kaseyvee.vercel.app/)
 - [Repo](https://github.com/kaseyvee/audiophile)
